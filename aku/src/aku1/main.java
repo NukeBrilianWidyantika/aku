@@ -6,6 +6,7 @@ public class main {
 		// test
 		System.out.print("aku");
 		System.out.print("dia");
+		System.out.print("dia");
 
 	}
 
